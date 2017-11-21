@@ -1,0 +1,12 @@
+---
+layout: post
+title: "技术的对面"
+date: 2016-12-23 09:13:54 +0800
+comments: true
+categories: ["架构"]
+published: true
+---
+
+“技术”的对面是“策略”，不是“应用”、“方法”，不是“思想”、“道”，也不是“艺术”或“诗歌”。
+
+
