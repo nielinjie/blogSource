@@ -13,4 +13,4 @@ published: true
 
 <iframe height=498 width=510 src="http://player.youku.com/embed/XMTY5NjA5NTUy" frameborder=0 allowfullscreen></iframe>
 
-[^1]: [Orchestration 和 Choreography](/blog/2015/11/29/oc/)
+[^1]: [Orchestration 和 Choreography](/2015/11/29/oc/)

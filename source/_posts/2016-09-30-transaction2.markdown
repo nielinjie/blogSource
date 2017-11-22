@@ -29,14 +29,14 @@ published: true
 
 
 
-（[下一篇](/blog/2016/10/06/transaction3/)，继续谈实现模型）
+（[下一篇](/2016/10/06/transaction3/)，继续谈实现模型）
 
 附图：
 
 {% img  /images/transaction/transaction2.png 500 %}
 
 
-[^1]: 此处并没有任何可以直接应用的结论或代码。“干货”并非是本博的主要内容，参见：[时事：干货](/blog/2016/05/20/dry/)
-[^2]: 本篇所有概念和名词都延续自[前一篇](/blog/2016/09/19/transaction/)。
+[^1]: 此处并没有任何可以直接应用的结论或代码。“干货”并非是本博的主要内容，参见：[时事：干货](/2016/05/20/dry/)
+[^2]: 本篇所有概念和名词都延续自[前一篇](/2016/09/19/transaction/)。
 [^3]: Wiki：[Hierarchically_nested_states](https://en.wikipedia.org/wiki/UML_state_machine#Hierarchically_nested_states)
-[^4]: 决策表的例子见[前一篇](/blog/2016/09/19/transaction/)，但要注意，前一篇的例子中，对操作的处置是很细节的，在很多场景中不一定适合，如上面第5点讨论的。
+[^4]: 决策表的例子见[前一篇](/2016/09/19/transaction/)，但要注意，前一篇的例子中，对操作的处置是很细节的，在很多场景中不一定适合，如上面第5点讨论的。

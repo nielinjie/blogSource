@@ -42,7 +42,7 @@ series: ["给老爷爷系统 5"]
 大家不要搞混了。
 我们的目的只是“划分”。
 
-（[下篇继续](/blog/2014/06/11/refactory2)）
+（[下篇继续](/2014/06/11/refactory2)）
 
 {% img  /images/refactory/refactory.png %}
 

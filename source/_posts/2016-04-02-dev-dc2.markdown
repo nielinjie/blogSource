@@ -43,7 +43,7 @@ published: true
 
 {% img  /images/domain/ad.png 400 %}
 
-（[后文继续，讲讲维护知识的手段](/blog/2016/04/09/dev-dc3/)）
+（[后文继续，讲讲维护知识的手段](/2016/04/09/dev-dc3/)）
 
 
 

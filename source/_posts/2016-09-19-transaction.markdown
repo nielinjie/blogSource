@@ -65,7 +65,7 @@ published: true
 5. 两段、三段提交模式 - 不谈了。
 
 
-（[下一篇](/blog/2016/09/26/transaction2/)，谈一谈实现模型）
+（[下一篇](/2016/09/26/transaction2/)，谈一谈实现模型）
 
 {% img  /images/transaction/transaction.jpg 500 %}
 

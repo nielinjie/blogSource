@@ -51,6 +51,6 @@ published: true
    团队间的架构沟通是否可以通过一个集中的会议来减少成本？
 
 
-[^1]: 之前总结的一个系列，时间比较久了。—— [Series: 敏捷的架构设计](/blog/filter/filter.html?filterName=series&filterValue=敏捷的架构设计&filterDes=Series%3A%20敏捷的架构设计)
-[^2]: 后续会讨论下这些个结构，其中一个比较明显的可能是：有界上下文。之前也有博文提到过这个结构的应用。—— [Series: 重构，以知识结构为中心](/blog/filter/filter.html?filterName=series&filterValue=重构，以知识结构为中心&filterDes=Series%3A%20重构，以知识结构为中心)
+[^1]: 之前总结的一个系列，时间比较久了。—— [Series: 敏捷的架构设计](/filter/filter.html?filterName=series&filterValue=敏捷的架构设计&filterDes=Series%3A%20敏捷的架构设计)
+[^2]: 后续会讨论下这些个结构，其中一个比较明显的可能是：有界上下文。之前也有博文提到过这个结构的应用。—— [Series: 重构，以知识结构为中心](/filter/filter.html?filterName=series&filterValue=重构，以知识结构为中心&filterDes=Series%3A%20重构，以知识结构为中心)
 
