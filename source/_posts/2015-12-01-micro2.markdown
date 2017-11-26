@@ -3,7 +3,7 @@ layout: post
 title: "微服务的微（下）"
 date: 2015-12-15 15:16:01 +0800
 comments: true
-categories: ["架构","微服务"]
+tags: ["架构","微服务"]
 published: true
 series: ["微服务的微 1"]
 keywords: "微服务"

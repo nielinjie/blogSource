@@ -3,7 +3,7 @@ layout: post
 title: "领域对象的没落？"
 date: 2016-01-19 09:21:19 +0800
 comments: true
-categories: ["架构","领域"]
+tags: ["架构","领域"]
 published: true
 keywords: "领域,对象,架构"
 description: "领域对象的没落？"

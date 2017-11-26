@@ -3,7 +3,7 @@ layout: post
 title: "关于App服务架构风格的讨论"
 date: 2014-03-20 20:06:38 +0800
 comments: true
-categories: ["架构"]
+tags: ["架构"]
 
 ---
 最近有架构师在架构师列表提问关于web/app服务器分离的架构风格。参与了讨论，摘录如下：

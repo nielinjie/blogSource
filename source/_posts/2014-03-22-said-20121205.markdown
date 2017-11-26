@@ -3,7 +3,7 @@ layout: post
 title: "REST"
 date: 2012-12-05 21:36:38 +0800
 comments: true
-categories: [架构, REST]
+tags: ["架构", "REST"]
 ---
 
 不是REST就别说是REST，可以说是json-rcp，又不丢人。

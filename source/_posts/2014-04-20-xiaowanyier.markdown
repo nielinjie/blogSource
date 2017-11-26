@@ -3,7 +3,7 @@ layout: post
 title: "向Octopress贡献（一）：动态内容"
 date: 2014-04-20 23:06:38 +0800
 comments: true
-categories: [开发, octopress]
+tags: ["开发", octopress]
 series: ["向Octopress贡献 1"]
 
 ---

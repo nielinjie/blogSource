@@ -3,7 +3,7 @@ layout: post
 title: "雪人（二）"
 date: 2014-02-15 15:36:38 +0800
 comments: true
-categories: [架构]
+tags: ["架构"]
 series: ["雪人 2"]
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "复制到gitcafe"
 date: 2015-04-02 10:48:27 +0800
 comments: true
-categories: ["个人"]
+tags: ["个人"]
 ---
 
 已复制到gitcafe——  

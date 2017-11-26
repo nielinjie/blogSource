@@ -2,7 +2,7 @@
 layout: post
 title: "涌现中的架构（三）"
 comments: true
-categories: ["架构","敏捷"]
+tags: ["架构","敏捷"]
 series: ["涌现中的架构 3"]
 published: true
 ---

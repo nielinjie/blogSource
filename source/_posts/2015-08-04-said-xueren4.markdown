@@ -3,7 +3,7 @@ layout: post
 title: "雪人（五）"
 date: 2015-08-04 21:10:16 +0800
 comments: true
-categories: [架构]
+tags: ["架构"]
 series: ["雪人 4"]
 ---
 

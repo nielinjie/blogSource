@@ -3,7 +3,7 @@ layout: post
 title: "FAQ：应用架构与技术架构"
 date: 2016-05-28 17:15:59 +0800
 comments: true
-categories: ["架构"]
+tags: ["架构"]
 series: ["FAQ 0"]
 published: true
 

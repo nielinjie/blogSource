@@ -3,7 +3,7 @@ layout: post
 title: "译：迁移至云架构（六）"
 date: 2015-06-07 11:15:31 +0800
 comments: true
-categories: ["翻译","架构","云"]
+tags: ["翻译","架构","云"]
 series: ["迁移至云架构 6"]
 
 ---
@@ -44,8 +44,11 @@ Spring Cloud项目中有个[配置服务器](http://cloud.spring.io/spring-cloud
 
 图3-1. The Spring Cloud Config Server
 
-剩下的问题是如何可以不重启应用客户端修改配置。这个能力由Spring Cloud的另一个模块——[总线](http://cloud.spring.io/spring-cloud-bus/)提供。这个模块用一个轻量级的消息中间件连接分布式系统中的各节点。它可以用来广播状态变化，比如我们的配置更改（图3-2）。
-只要简单地向连入总线的任何应用的`/bus/refresh`地址发送一个HTTP POST，我们就可以提示所有连入的应用更新他们的配置值，通常更新到配置服务器上的最新值。
+
+剩下的问题是如何可以不重启应用客户端修改配置。这个能力由Spring Cloud的另一个模块——[总线](http://cloud.spring.io/spring-cloud-bus/)提供。这个模块用一个轻量级的消息中间件连接分布式系统中的各节点。它可以用来广播状态变化，比如我们的配置更改（图3-2）。
+
+
+只要简单地向连入总线的任何应用的`/bus/refresh`地址发送一个HTTP POST，我们就可以提示所有连入的应用更新他们的配置值，通常更新到配置服务器上的最新值。
 
 {% img /images/cloud/springBus.png  [图3-2. The Spring Cloud Bus] %}
 

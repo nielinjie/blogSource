@@ -3,7 +3,7 @@ layout: post
 title: "一帮成功的微服务"
 date: 2016-04-13 13:39:21 +0800
 comments: true
-categories: ["架构","微服务"]
+tags: ["架构","微服务"]
 published: true
 ---
 

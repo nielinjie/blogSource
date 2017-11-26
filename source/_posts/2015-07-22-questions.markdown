@@ -3,7 +3,7 @@ layout: post
 title: "问架构师候选人什么问题？"
 date: 2015-07-25 09:57:11 +0800
 comments: true
-categories: ["架构"]
+tags: ["架构"]
 
 ---
 

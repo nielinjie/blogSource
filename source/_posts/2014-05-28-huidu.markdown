@@ -3,7 +3,7 @@ layout: post
 title: "简单的灰度发布方案"
 date: 2014-05-28 20:06:38 +0800
 comments: true
-categories: ["架构"]
+tags: ["架构"]
 
 ---
 

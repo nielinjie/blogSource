@@ -3,7 +3,7 @@ layout: post
 title: "质量保障措施参考清单（一）"
 date: 2015-04-09 10:18:14 +0800
 comments: true
-categories: ["架构","质量"]
+tags: ["架构","质量"]
 series: ["质量保障措施参考清单 1"]
 
 

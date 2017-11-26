@@ -3,7 +3,7 @@ layout: post
 title: "微服务划分：按业务能力 vs 按子域"
 date: 2017-06-11 16:15:44 +0800
 comments: true
-categories: ["架构","微服务"]
+tags: ["架构","微服务"]
 published: true
 ---
 

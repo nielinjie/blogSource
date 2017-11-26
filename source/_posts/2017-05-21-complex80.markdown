@@ -3,7 +3,7 @@ layout: post
 title: "与复杂同行（番外）"
 date: 2017-05-21 14:57:18 +0800
 comments: true
-categories:  ["架构"]
+tags:  ["架构"]
 series: ["与复杂同行 2"]
 published: true
 ---

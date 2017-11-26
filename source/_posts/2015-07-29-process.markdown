@@ -3,7 +3,7 @@ layout: post
 title: "架构设计不能忽视过程产出"
 date: 2015-10-04 10:25:03 +0800
 comments: true
-categories: ["架构","过程"]
+tags: ["架构","过程"]
 keywords: "架构, 架构设计, 过程, 产出"
 description: "架构设计不能忽视过程产出"
 

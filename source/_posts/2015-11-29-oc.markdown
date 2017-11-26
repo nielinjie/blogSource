@@ -3,7 +3,7 @@ layout: post
 title: "Orchestration 和 Choreography"
 date: 2015-11-29 15:01:02 +0800
 comments: true
-categories: ["架构","微服务"]
+tags: ["架构","微服务"]
 published: true
 keywords: "微服务, SOA, 服务, Orchestration, Choreography, 编舞, 编曲"
 description: "Orchestration 和 Choreography"

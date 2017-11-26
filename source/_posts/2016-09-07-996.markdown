@@ -3,7 +3,7 @@ layout: post
 title: "时事：996"
 date: 2016-09-07 21:26:15 +0800
 comments: true
-categories: ["管理","时事"]
+tags: ["管理","时事"]
 published: true
 
 ---

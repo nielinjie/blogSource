@@ -3,7 +3,7 @@ layout: post
 title: "“别让牛人写代码。”"
 date: 2015-09-27 16:51:48 +0800
 comments: true
-categories: ["架构","开发"]
+tags: ["架构","开发"]
 series: ["同学说 0"]
 
 

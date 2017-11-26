@@ -3,7 +3,7 @@ layout: post
 title: "框计算"
 date: 2014-06-09 18:06:38 +0800
 comments: true
-categories: ["产品"]
+tags: ["产品"]
 published: false
 ---
 

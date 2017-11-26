@@ -3,7 +3,7 @@ layout: post
 title: "结构的要素"
 date: 2014-06-07 17:06:38 +0800
 comments: true
-categories: [架构,设计]
+tags: [架构,设计]
 
 ---
 

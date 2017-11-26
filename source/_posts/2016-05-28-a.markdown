@@ -3,7 +3,7 @@ layout: post
 title: "复联vs凡人"
 date: 2016-05-28 18:51:37 +0800
 comments: true
-categories: ["架构",]
+tags: ["架构",]
 series: ["s 0"]
 published: false
 

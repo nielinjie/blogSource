@@ -3,7 +3,7 @@ layout: post
 title: "Android 上的 Scala， 实战之路（一）"
 date: 2011-11-14 15:04:04 +0800
 comments: true
-categories: [Scala, Android]
+tags: ["Scala", "Android"]
 series: ["Android上的Scala 2"]
 
 ---

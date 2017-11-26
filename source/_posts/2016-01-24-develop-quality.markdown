@@ -3,7 +3,7 @@ layout: post
 title: "在发展中团队：开发质量问题"
 date: 2016-01-24 11:44:37 +0800
 comments: true
-categories: ["开发","过程","质量"]
+tags: ["开发","过程","质量"]
 series: ["在发展中团队 0"]
 published: true
 

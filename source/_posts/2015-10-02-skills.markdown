@@ -3,7 +3,7 @@ layout: post
 title: "架构师的技能"
 date: 2015-10-02 22:01:18 +0800
 comments: true
-categories: ["架构"]
+tags: ["架构"]
 published: false
 
 ---
